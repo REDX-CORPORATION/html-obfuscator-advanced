@@ -130,7 +130,7 @@ If you improve it, feel free to submit PRs.
 
 ## 📄 License
 
-MIT License — Free to use, modify & distribute.
+MIT License — Free to use, modify & distribute with proper credits.
 
 ---
 
